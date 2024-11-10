@@ -17,4 +17,4 @@
 
 <h2>CV</h2>
 <p>You can check my CV by clicking this link</p> 
-<h3>LINK</h3>
+<h3><a href="https://www.przykład.com">Odwiedź stronę</a></h3>

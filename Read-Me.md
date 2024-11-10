@@ -1,8 +1,8 @@
 #Portfolio
 
 ##Table of contents
--About me
--CV
+<p>-About me </p>
+<p>-CV</p>
 -Skills
 -Tools
 -Courses

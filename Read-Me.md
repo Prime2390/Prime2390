@@ -8,7 +8,7 @@
   <li><a href="#tools">Tools</a></li>
   <li><a href="#courses">Courses</a></li>
   <li><a href="#mynotes">My Notes</a></li>
-  <li><a href="#portfolio">Portolifo</a></li>
+  <li><a href="#Portfolio">Portfolio</a></li>
 </ul>
 
  <h2 id="about-me">About Me</h2>
@@ -104,4 +104,4 @@
 
 <h2 id="courses">Courses</h2>
 <h2 id="mynotes">My Notes<h/2>
-<h2 id="portfolio">Portfolio</h2>
+<h2 id="Portfolio">Portfolio</h2>

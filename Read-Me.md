@@ -6,9 +6,9 @@
   <li><a href="#cv">CV</a></li>
   <li><a href="#skills">Skills</a></li>
   <li><a href="#tools">Tools</a></li>
-  <li>Courses</li>
-  <li>My Notes</li>
-  <li>Portolifo</li>
+  <li><a href="#courses">Courses</a></li>
+  <li><a href="#mynotes">My Notes</a></li>
+  <li><a href="#portfolio">Portolifo</a></li>
 </ul>
 
  <h2 id="about-me">About Me</h2>

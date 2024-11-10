@@ -2,7 +2,7 @@
 
 <h3>Table of contents</h2>
 <ul>
-  <Li>About Me</Li>
+  <Li><a href="#about-me">About Me</a>Li>
   <li>CV</li>
   <li>Skills</li>
   <li>Tools</li>
@@ -11,7 +11,7 @@
   <li>Portolifo</li>
 </ul>
 
-<h2>About Me</h3>
+<h2 id="about-me>About Me</h3>
 <p>Hey, my name is Dominik and I’m from Poland. I'm a student of computer science and I'm interested in the subject of software testing, so this profile is partly my path I've gone through and also a portfolio to enrich my person. On this profile, I will share my personal projects, as well as notes and thoughts that I hope will help others in the future.
 </p>
 

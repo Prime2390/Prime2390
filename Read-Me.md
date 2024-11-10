@@ -16,4 +16,4 @@
 </p>
 
 <h2>CV</h2>
-<h3>You can chack my CV by clicking this link</h3>
+<h3>You can check my CV by clicking this link</h3>

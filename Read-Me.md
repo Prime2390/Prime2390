@@ -2,7 +2,7 @@
 
 <h3>Table of contents</h2>
 <ul>
-  <Li><a href="#about-me">About Me</a>Li>
+  <Li><a href="#about-me">About Me</a></Li>
   <li>CV</li>
   <li>Skills</li>
   <li>Tools</li>

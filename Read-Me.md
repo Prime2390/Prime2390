@@ -20,4 +20,4 @@
 <h3> <a href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">LINK</a>
 </h3>
 
-<h2 id="skills"></h2>
+<h2 id="skills">Skills</h2>

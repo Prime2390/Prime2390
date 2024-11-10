@@ -101,3 +101,7 @@
 <ul>
   <li>Visual Studio Code</li>
 </ul>
+
+<h2 id="courses">Courses</h2>
+<h2 id="mynotes">My Notes<h/2>
+<h2 id="portfolio">Portfolio</h2>

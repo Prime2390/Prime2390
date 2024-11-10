@@ -4,7 +4,7 @@
 <ul>
   <Li><a href="#about-me">About Me</a></Li>
   <li><a href="#cv">CV</a></li>
-  <li>Skills</li>
+  <li><a href="#skills">Skills</a></li>
   <li>Tools</li>
   <li>Courses</li>
   <li>My Notes</li>
@@ -19,3 +19,5 @@
 <p>You can check my CV on<strong> Google Drive</strong> by clicking this link</p> 
 <h3> <a href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">LINK</a>
 </h3>
+
+<h2 id="skills"></h2>

@@ -3,7 +3,7 @@
 <h3>Table of contents</h2>
 <ul>
   <Li><a href="#about-me">About Me</a></Li>
-  <li><a href="#cv">About Me</a></li>
+  <li><a href="#cv">CV</a></li>
   <li>Skills</li>
   <li>Tools</li>
   <li>Courses</li>

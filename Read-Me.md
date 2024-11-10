@@ -11,3 +11,5 @@
   <li>Portolifo</li>
 </ul>
 <h3>About Me</h3>
+<p>Hey, my name is Dominik and I’m from Poland. I'm a student of computer science and I'm interested in the subject of software testing, so this profile is partly my path I've gone through and also a portfolio to enrich my person. On this profile, I will share my personal projects, as well as notes and thoughts that I hope will help others in the future.
+</p>

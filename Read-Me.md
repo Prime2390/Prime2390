@@ -17,4 +17,4 @@
 
 <h2>CV</h2>
 <p>You can check my CV on Google Drive by clicking this link</p> 
-<h3 color="Red"><a href="https://www.przykład.com">LINK</a></h3>
+<h3 style="color: red;"><a href="https://www.przykład.com">LINK</a></h3>

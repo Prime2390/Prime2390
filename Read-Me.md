@@ -16,5 +16,5 @@
 </p>
 
 <h2>CV</h2>
-<p>You can check my CV by clicking this link</p> 
-<h3><a href="https://www.przykład.com">Odwiedź stronę</a></h3>
+<p>You can check my CV on Google Drive by clicking this link</p> 
+<h3 color="Red"><a href="https://www.przykład.com">LINK</a></h3>

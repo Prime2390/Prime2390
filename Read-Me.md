@@ -21,3 +21,14 @@
 </h3>
 
 <h2 id="skills">Skills</h2>
+<h3>Technical skills </h3>
+<ul>
+  <li>Ability to distinguish and perform functional, non-functional, unit, integration, system, regression and acceptance tests
+</li>
+  <li>Knowledge of test management tools [Jira, TestRail]</li>
+  <li>Ability to use test automation tools [Cypress, Selenium]
+</li>
+  <li>Understanding of databases and SQL </li>
+  <li>Analysis of APIs and API testing tools [Postman]</li>
+  <li>asic knowledge of programming languages [JavaScript, HTML, CSS, C++]</li>
+</ul>

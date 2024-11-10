@@ -59,3 +59,45 @@
 </ul>
 
 <h2 id="tools">Tools</h2>
+
+<h3>Project management [Trello, Jira]</h3>
+<ul>
+  <li>Monitoring progress
+</li>
+  <li> Creating error reports and tracking progress 
+</li>
+</ul>
+
+<h3>Test management [TestRail, XRay]</h3>
+<ul>
+  <li>Creating plans</li>
+  <li>Reporting errors and analysing results</li>
+</ul>
+
+<h3>Reporting errors</h3>
+<ul>
+   <li>PicPick (Screenshot tool</li>
+  <li>ShareX (Screen recording tool)</li>
+</ul>
+
+<h3>DevTools</h3>
+<ul>
+  <li>Analysis of the application structure</li>
+  <li>nspection of UI elements</li>
+  <li>Logging logs and errors</li>
+</ul>
+
+<h3>API testing tool</h3>
+<ul>
+  <li>Creating and sending HTTP requests</li>
+  <li>Testing and validating API responses</li>
+  <li>Automating API tests</li>
+</ul>
+<h3>Tools to run a local server</h3>
+<ul>
+  <li>XAMPP</li>
+</ul>
+<h3>Programming environment</h3>
+<ul>
+  <li>Visual Studio Code</li>
+</ul>

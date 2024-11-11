@@ -25,6 +25,10 @@
 </li>
 </ul>
 <h2 id=2>The 7 cardinal commandments</h2>
+<ol>
+  <li><h3>Testing reveals faults, but cannot prove the absence of faults.
+</h3><p>Software testing aims to detect defects so that they can be fixed before production implementation. At the same time, the testing process does not confirm that the software is completely free of defects.</p></li>
+</ol>
 <h2 id=3>Divisions of testing</h2>
 <h2 id=4>Typical stages of testing</h2>
 <h2 id=5>Levels of abnormal results produced (ISTQB)</h2>

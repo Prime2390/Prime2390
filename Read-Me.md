@@ -122,5 +122,5 @@
 
 <h2 id="mynotes">My Notes<h/2>
   <h3>My notes will be made available at this link, which maybe someone will use.</h3>
-  <p><a href="">Table of contents</a></p>
+  <p><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Table of contents</a></p>
 <h2 id="projects">My Projects</h2>

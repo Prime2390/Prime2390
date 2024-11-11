@@ -103,5 +103,9 @@
 </ul>
 
 <h2 id="courses">Courses</h2>
+<h3>Software Testing. A handbook for beginners [Book 216 pages]</h3>
+<h4>general theory of testing
+design and testing process
+Automation and documentation</h4>
 <h2 id="mynotes">My Notes<h/2>
 <h2 id="testy">Portfolio</h2>

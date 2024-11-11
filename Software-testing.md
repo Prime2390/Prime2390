@@ -118,3 +118,8 @@
 
 
 <h2 id=5>Levels of abnormal results produced (ISTQB)</h2>
+<ul>
+  <li>Mistake (error) - Human action produces an incorrect result.</li>
+  <li>Defect - a defect in a work product, involving a failure to meet requirements.</li>
+  <li>Failure - an event in which a module or system fails to perform the required functions</li>
+</ul>

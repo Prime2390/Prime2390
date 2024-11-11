@@ -17,9 +17,11 @@
 
 <h2 id="cv">CV</h2>
 <p>You can check my CV on<strong> Google Drive</strong> by clicking this link</p> 
-<a align="center"  href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.54.00%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'CV'.%20The%20icon%20should%20feature%20a%20document%20symbol%20with%20a%20person%20or%20profile%20image%20outline%2C%20symbolizing%20a%20re.webp" alt="CV" align="center" style="width:100px;height:100px";>
+<div align="center">
+<a   href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.54.00%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'CV'.%20The%20icon%20should%20feature%20a%20document%20symbol%20with%20a%20person%20or%20profile%20image%20outline%2C%20symbolizing%20a%20re.webp" alt="CV" style="width:100px;height:100px";>
 </a>
+</div>
 
 <h2 id="skills" >Skills</h2>
 <h3>Technical skills </h3>

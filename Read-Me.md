@@ -17,11 +17,10 @@
 
 <h2 id="cv">CV</h2>
 <p>You can check my CV on<strong> Google Drive</strong> by clicking this link</p> 
-<div align="center">
 <a   href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">
     <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.54.00%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'CV'.%20The%20icon%20should%20feature%20a%20document%20symbol%20with%20a%20person%20or%20profile%20image%20outline%2C%20symbolizing%20a%20re.webp" alt="CV" style="width:100px;height:100px";>
 </a>
-</div>
+
 
 <h2 id="skills" >Skills</h2>
 <h3>Technical skills </h3>
@@ -60,7 +59,11 @@
   <li>This is why I believe that my self-development and expanding my knowledge of new trends and improving my skills allow me to achieve better results and overcome new challenges
 </li>
 </ul>
-<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
+<div align="center">
+<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
+</a>
+</div>
 
 <h2 id="tools" >Tools</h2>
 
@@ -105,7 +108,11 @@
 <ul>
   <li>Visual Studio Code</li>
 </ul>
-<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
+<div align="center">
+<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
+</a>
+</div>
 
 <h2 id="courses" ">Courses</h2>
 <h3>Software Testing. A handbook for beginners [Book 216 pages]</h3>
@@ -124,7 +131,6 @@
 
 <h3>Java programming [55h] WSB NLU</h3>
 <p>The course focuses mainly on object-oriented programming.</p>
-<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 
 <h2 id="mynotes" >My Notes<h/2>
   <h3>My notes will be available at this link, which maybe someone will use.</h3>
@@ -139,6 +145,10 @@
 </a>
 
 
-<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
+<div align="center">
+<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
+</a>
+</div>
 
 

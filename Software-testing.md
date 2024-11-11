@@ -50,13 +50,13 @@
 </ul>
 <h2 id=4>Typical stages of testing</h2>
 <ol>
-  <h3>Test planning => Product (Test plan)</h3>
+  <li></li><h3>Test planning => Product (Test plan)</h3>
   <ul>
     <li>Definition of test objectives</li>
     <li>Defining test activities</li>
     <li>Determine appropriate test techniques and test tasks</li>
     <li>Formulation of the test schedule</li>
-  </ul>
+  </li></ul>
   
   
 </ol>

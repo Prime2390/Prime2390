@@ -58,6 +58,7 @@
     <li>Determine appropriate test techniques and test tasks</li>
     <li>Formulation of the test schedule</li>
   </li></ul>
+    
   <li>
     <h3>Test monitoring => Product (Test report</h3>
     <ul>
@@ -68,6 +69,50 @@
     </ul>
   </li>
   
+  <li>
+    <h3>Test analysis => Product (Test conditions</h3>
+    <ul>
+      <li>Familiarisation with the test requirements specification</li>
+      <li>Analysis of module or code implementation and project information</li>
+      <li>Analysis of risk analysis reports</li>
+      <li>Definition of test conditions</li>
+    </ul>
+  </li>
+
+   <li>
+    <h3>Test Design => Product (Test Cases)</h3>
+    <ul>
+      <li>Design of test cases</li>
+      <li>Collection of necessary test data</li>
+    </ul>
+  </li>
+
+   <li>
+    <h3>Test implementation => Product (Test data, Test execution schedule)</h3>
+    <ul>
+      <li>Preparation of test data</li>
+      <li>Creation of automatic scripts</li>
+      <li>Creation of test suites</li>
+      <li>Building the environment</li>
+    </ul>
+  </li>
+
+   <li>
+    <h3>Testing => Product (Defect reports)</h3>
+    <ul>
+      <li>Testing</li>
+      <li>Comparison of actual results with expected results</li>
+      <li>Defect reporting</li>
+      <li>Repetition of test activities (for example confirmatory or regression tests)</li>
+    </ul>
+  </li>
+
+   <li>
+    <h3>Test completion => Product (Test completion report)</h3>
+    <ul>
+      <li>Commissioning the system</li>
+    </ul>
+  </li>
   
 </ol>
 

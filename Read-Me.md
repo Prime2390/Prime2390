@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-<h3 id="spis" align="center">Table of contents</h2>
+<h3 id="spis">Table of contents</h2>
 <ul>
   <Li><a href="#about-me">About Me</a></Li>
   <li><a href="#cv">CV</a></li>
@@ -11,16 +11,16 @@
   <Li><a href="#projects">My Projects</a></Li>
 </ul>
 
- <h2 id="about-me">About Me</h2>
+ <h2 id="about-me" align="center">About Me</h2>
 <p>Hey, my name is Dominik and I’m from Poland. I'm a student of computer science and I'm interested in the subject of software testing, so this profile is partly my path I've gone through and also a portfolio to enrich my person. On this profile, I will share my personal projects, as well as notes and thoughts that I hope will help others in the future.
 </p>
 
-<h2 id="cv">CV</h2>
+<h2 id="cv align="center"">CV</h2>
 <p>You can check my CV on<strong> Google Drive</strong> by clicking this link</p> 
-<h3> <a href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">LINK</a>
+<h3 align="center"> <a href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">LINK</a>
 </h3>
 
-<h2 id="skills">Skills</h2>
+<h2 id="skills" align="center">Skills</h2>
 <h3>Technical skills </h3>
 <ul>
   <li>Ability to distinguish and perform functional, non-functional, unit, integration, system, regression and acceptance tests
@@ -57,9 +57,9 @@
   <li>This is why I believe that my self-development and expanding my knowledge of new trends and improving my skills allow me to achieve better results and overcome new challenges
 </li>
 </ul>
-<p><a href="#spis">BACK TO Table of Contents</a></p>
+<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 
-<h2 id="tools">Tools</h2>
+<h2 id="tools" align="center">Tools</h2>
 
 <h3>Project management [Trello, Jira]</h3>
 <ul>
@@ -102,9 +102,9 @@
 <ul>
   <li>Visual Studio Code</li>
 </ul>
-<p><a href="#spis">BACK TO Table of Contents</a></p>
+<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 
-<h2 id="courses">Courses</h2>
+<h2 id="courses" align="center">Courses</h2>
 <h3>Software Testing. A handbook for beginners [Book 216 pages]</h3>
 <ul>
   <li>General theory of testing</li>
@@ -114,20 +114,20 @@
 
 <h3>Software testing in practice [100h] </h3>
 <p>The bootcamp is divided into theory and practice, supported by do-it-yourself tasks. The topics are extensive enough that I am providing a link to the course</p>
-<p><a href="https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/?couponCode=ST20MT111124B">UDEMY</a></p>
+<p align="center"><a href="https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/?couponCode=ST20MT111124B">UDEMY</a></p>
 
 <h3>Data base design [45h] WSB NLU </h3>
 <p>The course includes the design of relational databases. An important part of the course is devoted to the SQL language and transaction processing.</p>
 
 <h3>Java programming [55h] WSB NLU</h3>
 <p>The course focuses mainly on object-oriented programming.</p>
-<p><a href="#spis">BACK TO Table of Contents</a></p>
+<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 
-<h2 id="mynotes">My Notes<h/2>
+<h2 id="mynotes" align="center">My Notes<h/2>
   <h3>My notes will be made available at this link, which maybe someone will use.</h3>
-  <p><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Table of contents</a></p>
+  <p align="center"><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Table of contents</a></p>
   
-<h2 id="projects">My Projects</h2>
+<h2 id="projects" align="center">My Projects</h2>
 <h3>My project files</h3>
-<p><a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio.md">Portfolio</a></p>
-<p><a href="#spis">BACK TO Table of Contents</a></p>
+<p align="center"><a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio.md">Portfolio</a></p>
+<p align="center"><a href="#spis">BACK TO Table of Contents</a></p>

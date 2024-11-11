@@ -8,7 +8,7 @@
   <li><a href="#tools">Tools</a></li>
   <li><a href="#courses">Courses</a></li>
   <li><a href="#mynotes">My Notes</a></li>
-  <li><a href="#MyProjects">My Projects</a></li>
+  <li><a href="MyProjects">My Projects</a></li>
 </ul>
 
  <h2 id="about-me">About Me</h2>

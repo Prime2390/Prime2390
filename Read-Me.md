@@ -40,7 +40,7 @@
 
 <h3>Communication</h3>
 <ul>
-  <li>I have the ability to report errors clearly and accurately and to read test cases</li>
+  <li>Ability to report errors clearly and accurately and to read test cases</li>
   <li>Ability to work well with developers and other team members</li>
 </ul>
 

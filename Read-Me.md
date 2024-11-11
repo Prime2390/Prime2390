@@ -60,7 +60,7 @@
 </li>
 </ul>
 <div align="center">
-<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+<a href="#spis">
     <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
 </a>
 </div>
@@ -109,7 +109,7 @@
   <li>Visual Studio Code</li>
 </ul>
 <div align="center">
-<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+<a href="#spis">
     <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
 </a>
 </div>
@@ -146,7 +146,7 @@
 
 
 <div align="center">
-<a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+<a href="#spis">
     <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.47%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Table%20List'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20table%20or%20grid%20layout%20symbol%2C%20indicati.webp" alt="Back to Table List" style="width:100px;height:100px;">
 </a>
 </div>

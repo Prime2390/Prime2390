@@ -49,4 +49,17 @@
   <li>Static testing is where testing can be performed without running the test object (Automatic and manual checking of code to find errors)</li>
 </ul>
 <h2 id=4>Typical stages of testing</h2>
+<ol>
+  <h3>Test planning => Product (Test plan)</h3>
+  <ul>
+    <li>Definition of test objectives</li>
+    <li>Defining test activities</li>
+    <li>Determine appropriate test techniques and test tasks</li>
+    <li>Formulation of the test schedule</li>
+  </ul>
+  
+  
+</ol>
+
+
 <h2 id=5>Levels of abnormal results produced (ISTQB)</h2>

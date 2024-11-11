@@ -8,7 +8,7 @@
   <li><a href="#tools">Tools</a></li>
   <li><a href="#courses">Courses</a></li>
   <li><a href="#mynotes">My Notes</a></li>
-  <li><a href="#Projects">My Projects</a></li>
+  <Li><a href="#Projects">My Projects</a></Li>
 </ul>
 
  <h2 id="about-me">About Me</h2>
@@ -113,4 +113,4 @@
 <p>The bootcamp is divided into theory and practice, supported by do-it-yourself tasks. The topics are extensive enough that I am providing a link to the course</p>
 <p><a href="https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/?couponCode=ST20MT111124B">UDEMY</a></p>
 <h2 id="mynotes">My Notes<h/2>
-<h2 id="Project">My Projects</h2>
+<h2 id="Projects">My Projects</h2>

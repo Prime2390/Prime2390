@@ -37,7 +37,7 @@
   <li>Familiarity with Agile and Serum methodologies</li>
   <li>Understanding of how testing fits into the project lifecycle, from design to implementation and maintenance.</li>
 </ul>
-<p><a href="#spis">BACK TO Table of Contents</a></p>
+
 <h3>Communication</h3>
 <ul>
   <li>Ability to report errors clearly and accurately and to read test cases</li>
@@ -57,6 +57,7 @@
   <li>This is why I believe that my self-development and expanding my knowledge of new trends and improving my skills allow me to achieve better results and overcome new challenges
 </li>
 </ul>
+<p><a href="#spis">BACK TO Table of Contents</a></p>
 
 <h2 id="tools">Tools</h2>
 
@@ -101,6 +102,7 @@
 <ul>
   <li>Visual Studio Code</li>
 </ul>
+<p><a href="#spis">BACK TO Table of Contents</a></p>
 
 <h2 id="courses">Courses</h2>
 <h3>Software Testing. A handbook for beginners [Book 216 pages]</h3>
@@ -119,8 +121,12 @@
 
 <h3>Java programming [55h] WSB NLU</h3>
 <p>The course focuses mainly on object-oriented programming.</p>
+<p><a href="#spis">BACK TO Table of Contents</a></p>
 
 <h2 id="mynotes">My Notes<h/2>
   <h3>My notes will be made available at this link, which maybe someone will use.</h3>
   <p><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Table of contents</a></p>
+  <p><a href="#spis">BACK TO Table of Contents</a></p>
+  
 <h2 id="projects">My Projects</h2>
+<p><a href="#spis">BACK TO Table of Contents</a></p>

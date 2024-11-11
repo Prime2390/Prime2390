@@ -48,7 +48,7 @@
   <p>The methods and types of tests carried out can depend entirely on the software or systems you are currently testing. The approach depends on what you are currently testing.</p>
 </li>
 <li>
-  <h3>he belief that there are no errors is a mistake.</h3>
+  <h3>The belief that there are no errors is a mistake.</h3>
   <p>It doesn't matter how defect-free a system is if usability is so low that users can't even navigate the software.</p>
 </li>
 </ol>

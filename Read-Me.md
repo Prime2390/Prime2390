@@ -113,4 +113,4 @@
 <p>The bootcamp is divided into theory and practice, supported by do-it-yourself tasks. The topics are extensive enough that I am providing a link to the course</p>
 <p><a href="https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/?couponCode=ST20MT111124B">UDEMY</a></p>
 <h2 id="mynotes">My Notes<h/2>
-<h2 id="testy">My Project</h2>
+<h2 id="MyProjects">My Project</h2>

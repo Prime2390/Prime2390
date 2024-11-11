@@ -128,11 +128,16 @@
 
 <h2 id="mynotes" >My Notes<h/2>
   <h3>My notes will be available at this link, which maybe someone will use.</h3>
-  <p><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">List of notes</a></p>
+  <a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.51%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'My%20Notes'.%20The%20icon%20should%20feature%20a%20notebook%20or%20note%20paper%20symbol%20with%20a%20pencil%20or%20pen%20icon%2C%20symbolizing.webp" alt="My Notes" style="width:100px;height:100px;">
+</a>
   
 <h2 id="projects" >My Projects</h2>
 <h3>My project files</h3>
-<p ><a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio.md">Portfolio</a></p>
+<a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio/Portfolio.md">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.52.49%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'Portfolio'.%20The%20icon%20should%20feature%20a%20sleek%2C%20simple%20briefcase%20or%20folder%20symbol%2C%20symbolizing%20professiona.webp" alt="My Projects" style="width:100px;height:100px;">
+</a>
+
 
 <p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 

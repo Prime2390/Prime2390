@@ -12,8 +12,19 @@
   <li><a href="#5">Levels of abnormal results produced (ISTQB)</a></li>
 </ul>
 
-<h3 id=1>Objectives of testing</h3>
-<h3 id=2>The 7 cardinal commandments</h3>
-<h3 id=3>Divisions of testing</h3>
-<h3 id=4>Typical stages of testing</h3>
-<h3 id=5>Levels of abnormal results produced (ISTQB)</h3>
+<h2 id=1>Objectives of testing</h2>
+<ul>
+  <li>Assessing the work products (stakeholder requirements, user stories, design and code)
+</li>
+  <li>Checking that the requirements imposed on the project have been met</li>
+  <li>Checking that the test subject is performing as expected
+</li>
+  <li>Detecting defects and failures</li>
+  <li>Ensuring test subject quality</li>
+  <li>Providing stakeholders with information on work progress and detected defects
+</li>
+</ul>
+<h2 id=2>The 7 cardinal commandments</h2>
+<h2 id=3>Divisions of testing</h2>
+<h2 id=4>Typical stages of testing</h2>
+<h2 id=5>Levels of abnormal results produced (ISTQB)</h2>

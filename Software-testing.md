@@ -50,13 +50,23 @@
 </ul>
 <h2 id=4>Typical stages of testing</h2>
 <ol>
-  <li></li><h3>Test planning => Product (Test plan)</h3>
+  <li>
+    <h3>Test planning => Product (Test plan)</h3>
   <ul>
     <li>Definition of test objectives</li>
     <li>Defining test activities</li>
     <li>Determine appropriate test techniques and test tasks</li>
     <li>Formulation of the test schedule</li>
   </li></ul>
+  <li>
+    <h3>Test monitoring => Product (Test report</h3>
+    <ul>
+      <li>Checking the results and the test log </li>
+      <li>Estimate the quality of the module or system based on the results</li>
+      <li>Determination of whether further testing is necessary</li>
+      <li>Reporting the progress of tests</li>
+    </ul>
+  </li>
   
   
 </ol>

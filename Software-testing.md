@@ -3,7 +3,7 @@
 </h3>
 <h4><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Back To My Notes</a></h4>
 
-<h2 id=0>Table of contents</h2>
+<h2 id=0 align="center">Table of contents</h2>
 <ul>
   <li><a href="#1">Objectives of testing</a></li>
   <li><a href="#2">The 7 cardinal commandments</a></li>
@@ -12,7 +12,7 @@
   <li><a href="#5">Levels of abnormal results produced (ISTQB)</a></li>
 </ul>
 
-<h2 id=1>Objectives of testing</h2>
+<h2 id=1 align="center">Objectives of testing</h2>
 <ul>
   <li>Assessing the work products (stakeholder requirements, user stories, design and code)</li>
   <li>Checking that the requirements imposed on the project have been met</li>
@@ -22,7 +22,7 @@
   <li>Providing stakeholders with information on work progress and detected defects</li>
 </ul>
 
-<h2 id=2>The 7 cardinal commandments</h2>
+<h2 id=2 align="center">The 7 cardinal commandments</h2>
 <ol type="I" >
 <li><h3>Testing reveals faults, but cannot prove the absence of faults.</h3>
     <p>Software testing aims to detect defects so that they can be fixed before production implementation. At the same time, the testing process does not confirm that the software is completely free of defects.
@@ -53,14 +53,14 @@
 </li>
 </ol>
 
-<h2 id=3>Divisions of testing</h2>
+<h2 id=3 align="center">Divisions of testing</h2>
 <h3>Due to the objects tested</h3>
 <ul>
   <li>Dynamic testing is when a module or system is run, for example a web application
 </li>
   <li>Static testing is where testing can be performed without running the test object (Automatic and manual checking of code to find errors)</li>
 </ul>
-<h2 id=4>Typical stages of testing</h2>
+<h2 id=4 align="center">Typical stages of testing</h2>
 <ol>
   <li>
     <h3>Test planning => Product (Test plan)</h3>
@@ -129,7 +129,7 @@
 </ol>
 
 
-<h2 id=5>Levels of abnormal results produced (ISTQB)</h2>
+<h2 id=5 align="center">Levels of abnormal results produced (ISTQB)</h2>
 <ul>
   <li>Mistake (error) - Human action produces an incorrect result.</li>
   <li>Defect - a defect in a work product, involving a failure to meet requirements.</li>

@@ -12,4 +12,8 @@
   <li><a href="#5">Levels of abnormal results produced (ISTQB)</a></li>
 </ul>
 
-<h3 id=1></h3>
+<h3 id=1>Objectives of testing</h3>
+<h3 id=2>The 7 cardinal commandments</h3>
+<h3 id=3>Divisions of testing</h3>
+<h3 id=4>Typical stages of testing</h3>
+<h3 id=5>Levels of abnormal results produced (ISTQB)</h3>

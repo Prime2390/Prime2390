@@ -3,11 +3,11 @@
 </h3>
 <h4><a href="https://github.com/Prime2390/Prime2390/blob/main/MyNote.md">Back To My Notes</a></h4>
 
-<h2>Table of contents</h2>
+<h2 id="0">Table of contents</h2>
 <ul>
-  <li>Objectives of testing</li>
-  <li>The 7 cardinal commandments</li>
-  <li>Divisions of testing</li>
-  <li>Typical stages of testing</li>
-  <li>Levels of abnormal results produced (ISTQB)</li>
+  <li><a href="#1">Objectives of testing</a></li>
+  <li><a href="#2">The 7 cardinal commandments</a></li>
+  <li><a href="#3">Divisions of testing</a></li>
+  <li><a href="#4">Typical stages of testing</a></li>
+  <li><a href="#5">Levels of abnormal results produced (ISTQB)</a></li>
 </ul>

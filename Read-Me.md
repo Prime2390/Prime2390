@@ -109,8 +109,16 @@
   <li>Design and testing process</li>
   <li>Automation and documentation</li>
 </ul>
+
 <h3>Software testing in practice [100h] </h3>
 <p>The bootcamp is divided into theory and practice, supported by do-it-yourself tasks. The topics are extensive enough that I am providing a link to the course</p>
 <p><a href="https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/?couponCode=ST20MT111124B">UDEMY</a></p>
+
+<h3>Data base design [45h] WSB NLU </h3>
+<p>The course includes the design of relational databases. An important part of the course is devoted to the SQL language and transaction processing.</p>
+
+<h3>Java programming [55h] WSB NLU</h3>
+<p>The course focuses mainly on object-oriented programming.</p>
+
 <h2 id="mynotes">My Notes<h/2>
 <h2 id="Projects">My Projects</h2>

@@ -121,4 +121,6 @@
 <p>The course focuses mainly on object-oriented programming.</p>
 
 <h2 id="mynotes">My Notes<h/2>
+  <h3>My notes will be made available at this link, which maybe someone will use.</h3>
+  <p><a href="">Table of contents</a></p>
 <h2 id="projects">My Projects</h2>

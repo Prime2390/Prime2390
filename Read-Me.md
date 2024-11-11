@@ -30,7 +30,7 @@
 </li>
   <li>Understanding of databases and SQL </li>
   <li>Analysis of APIs and API testing tools [Postman]</li>
-  <li>asic knowledge of programming languages [JavaScript, HTML, CSS, C++]</li>
+  <li>Basic knowledge of programming languages [JavaScript, HTML, CSS, C++]</li>
 </ul>
 <h3>Understanding the software lifecycle</h3>
 <ul>

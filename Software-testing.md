@@ -42,5 +42,11 @@
 </ol>
 
 <h2 id=3>Divisions of testing</h2>
+<h3>Due to the objects tested</h3>
+<ul>
+  <li>Dynamic testing is when a module or system is run, for example a web application
+</li>
+  <li>Static testing is where testing can be performed without running the test object (Automatic and manual checking of code to find errors)</li>
+</ul>
 <h2 id=4>Typical stages of testing</h2>
 <h2 id=5>Levels of abnormal results produced (ISTQB)</h2>

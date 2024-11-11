@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">
-    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.08.07%20-%20A%20minimalist%20button%20design%20labeled%20'My%20Notes'%20with%20no%20background%2C%20just%20a%20clean%20outline%20or%20soft%20shadows%20around%20the%20text.%20The%20text%20'My%20Notes'%20is%20styled%20.webp" alt="My Notes" style="width:100px;height:100px;">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.55.51%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'My%20Notes'.%20The%20icon%20should%20feature%20a%20notebook%20or%20note%20paper%20symbol%20with%20a%20pencil%20or%20pen%20icon%2C%20symbolizing.webp" alt="My Notes" style="width:100px;height:100px;">
 </a>
 
 <a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio/Portfolio.md">
@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://drive.google.com/file/d/1uBc8flJ_DA3YFnsPuQyaTBar1y081k4a/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.54.00%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'CV'.%20The%20icon%20should%20feature%20a%20document%20symbol%20with%20a%20person%20or%20profile%20image%20outline%2C%20symbolizing%20a%20re.webp" alt="CV style="width:100px;height:100px;">
+    <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2021.54.00%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20a%20'CV'.%20The%20icon%20should%20feature%20a%20document%20symbol%20with%20a%20person%20or%20profile%20image%20outline%2C%20symbolizing%20a%20re.webp" alt="CV" style="width:100px;height:100px";>
 </a>
 
 <a href="https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md">

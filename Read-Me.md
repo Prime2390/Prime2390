@@ -1,6 +1,6 @@
-<h1>Portfolio</h1>
+<h1 align="center">Portfolio</h1>
 
-<h3 id="spis">Table of contents</h2>
+<h3 id="spis" align="center">Table of contents</h2>
 <ul>
   <Li><a href="#about-me">About Me</a></Li>
   <li><a href="#cv">CV</a></li>

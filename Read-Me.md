@@ -133,7 +133,4 @@
 
 <p align="center"><a href="#spis">BACK TO Table of Contents</a></p>
 
-<a href="https://www.przykład.com">
-    <img src=https://i.pinimg.com/564x/4a/0d/28/4a0d28445143edccafe1c88b695d3fea.jpg" alt="Przycisk" style="width: 100px; height: auto; border: none;">
-</a>
 

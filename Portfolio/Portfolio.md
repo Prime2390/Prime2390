@@ -7,5 +7,5 @@
 
 <h2 align="center">List of projects</h2>
 <ul>
-  
+  <li><a href="https://github.com/Prime2390/Prime2390/blob/main/Portfolio/Calculator">Calculator</a></li>
 </ul>

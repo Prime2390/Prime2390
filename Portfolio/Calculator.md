@@ -26,5 +26,25 @@
       <td>Wartość 5</td>
       <td>Wartość 6</td>
     </tr>
+         <tr>
+      <td>Wartość 4</td>
+      <td>Wartość 5</td>
+      <td>Wartość 6</td>
+    </tr>
+         <tr>
+      <td>Wartość 4</td>
+      <td>Wartość 5</td>
+      <td>Wartość 6</td>
+    </tr>
+         <tr>
+      <td>Wartość 4</td>
+      <td>Wartość 5</td>
+      <td>Wartość 6</td>
+    </tr>
+         <tr>
+      <td>Wartość 4</td>
+      <td>Wartość 5</td>
+      <td>Wartość 6</td>
+    </tr>
   </tbody>
 </table>

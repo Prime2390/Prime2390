@@ -7,12 +7,13 @@
 <table>
   <thead>
     <tr>
-      <th>Nagłówek 1</th>
-      <th>Nagłówek 2</th>
-      <th>Nagłówek 3</th>
-        <th>Nagłówek 4</th>
-        <th>Nagłówek 5</th>
-        <th>Nagłówek 6</th>
+      <th>ID</th>
+      <th>Nazwa</th>
+      <th>Wejscie</th>
+        <th>Warunki wstępne</th>
+        <th>Kroki do reprodukcji</th>
+        <th>Oczekiwany rezultat</th>
+         <th>Wynik</th>
     </tr>
   </thead>
   <tbody>

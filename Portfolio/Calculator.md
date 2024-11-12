@@ -10,6 +10,9 @@
       <th>Nagłówek 1</th>
       <th>Nagłówek 2</th>
       <th>Nagłówek 3</th>
+        <th>Nagłówek 4</th>
+        <th>Nagłówek 5</th>
+        <th>Nagłówek 6</th>
     </tr>
   </thead>
   <tbody>

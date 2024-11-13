@@ -13,7 +13,15 @@ For each of the software development activities, a testing activity is assigned,
 </a>
 </div>
 
-<h2>Lifecycle</h2>
+<h2 id=0 align="center">Table of contents</h2>
+<ul>
+  <li><a href="#1">Lifecycle</a></li>
+  <li><a href="#2">Levels of Tests</a></li>
+  <li><a href="#3">Types of Tests</a></li>
+</ul>
+
+
+<h2 id=1>Lifecycle</h2>
 <h3>The software lifecycle can be performed in one of the systems such as:</h3>
 <ul>
     <li><h4>Sequential (Linear) model</h4>
@@ -63,14 +71,14 @@ For each of the software development activities, a testing activity is assigned,
     </li>
 </ul>
 
-<h3>
-The software lifecycle model must be selected and adapted to fit the context resulting from the project and the final product.</h3>
+<h4>
+The software lifecycle model must be selected and adapted to fit the context resulting from the project and the final product.</h4>
 
-<h2>Levels of tests</h2>
-<h3>
-A good time to introduce the concepts of test levels is during the software life cycle, as each of the levels presented here has a particular impact at a different stage of the software life cycle.</h3>
+<h2 id=2>Levels of tests</h2>
+<h4>
+A good time to introduce the concepts of test levels is during the software life cycle, as each of the levels presented here has a particular impact at a different stage of the software life cycle.</h4>
 
-
+<h2 id=3>Types of Tests</h2>
 
 
 

@@ -23,3 +23,54 @@ For each of the software development activities, a testing activity is assigned,
 <p>Software is produced in short cycles, this means that functionality grows incrementally, so requirements and design, testing of the system is determined in parts.</p>
 </li>
 </ul>
+
+<h3>We can divide sequential models into:</h3>
+<ul>
+    <li>
+        <h4>Cascade model</h4>
+        <p>This is a serial model, i.e. each successive design phase follows one after the other
+</p>
+    </li>
+    <li>
+        <h4>V model</h4>
+        <p>TAssumes the integration of testing processes from the entire software development process and thus introduces the principle of early testing.
+</p>
+    </li>
+</ul>
+<h3>In contrast, the Iterative and Incremental Model can be divided into:
+</h3>
+<ul>
+     <li>
+        <h4>RUP Model</h4>
+        <p>Is a flexible process structure within which individual processes are defined
+</p>
+    </li>
+     <li>
+        <h4>Sacrum</h4>
+        <p>The software produced is divided into short iterations of the same length, and the incremental parts of the system are correspondingly small so they assume frequent changes
+</p>
+    </li>
+     <li>
+        <h4>Kanban</h4>
+        <p>Ensures that one enhancement or functionality is delivered at a time or that more functionality is grouped together for simultaneous delivery to the production environment
+
+</p>
+    </li>
+     <li>
+        <h4>Boehm's spiral model</h4>
+        <p>Experimental incremental components are created which may then be extensively rebuilt or even abandoned. Components often overlap and result in repeated levels of testing in the software lifecycle
+</p>
+    </li>
+</ul>
+
+<h3>
+The software lifecycle model must be selected and adapted to fit the context resulting from the project and the final product.</h3>
+
+<h2>Levels of tests</h2>
+<h3>
+A good time to introduce the concepts of test levels is during the software life cycle, as each of the levels presented here has a particular impact at a different stage of the software life cycle.</h3>
+
+
+
+
+

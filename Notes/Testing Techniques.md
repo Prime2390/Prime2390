@@ -11,4 +11,22 @@
   <li><a href="#2">Three main categories of techniques</a></li>
 </ul>
 
-<h2>Introduction</h2>
+<h2 id=1>Introduction</h2>
+<h3>The choice of testing technique is dictated by a number of factors related to </h3>
+<ul>
+    <li>Documentation, law (formal factors)</li>
+    <li>Software (Production Factors)</li>
+    <li>Time, budget, resources (Design factors)</li>
+</ul>
+
+<h2 id=2>Three main categories of techniques</h2>
+<h3>The syllabus, on the other hand, gives us three main categories of techniques :
+</h3>
+<ul>
+    <li> <h4>Black box techniques</h4>
+<p>This technique is based on specifications, using knowledge about how an object should behave. This technique uses, among other things, requirement specifications, case descriptions and user stories.</p></li>
+    <li><h4>White-box techniques</h4>
+<p>This technique is based on code structure. The source code of the object is tested. </p></li>
+    <li> <h4>Experience-based techniques</h4>
+<p>The source on which tests are based is the knowledge, intuition and experience of the people conducting them.</p></li>
+</ul>

@@ -1,4 +1,8 @@
 <div align="center"><h1>Software Lifecycle</h1> </div>
+<h3>A software lifecycle model is a description of the activities that go into the software development process and the relationships between them. The model is used to determine how the software will be developed. It introduces phases that separate the various software development processes.
+
+For each of the software development activities, a testing activity is assigned, where tests are assigned to the corresponding objectives assigned to the current phase.
+</h3>
 </h3>
 <div align="center">
 <a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md>

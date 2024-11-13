@@ -11,4 +11,4 @@
   <li><a href="#2">Three main categories of techniques</a></li>
 </ul>
 
-<h3>Introduction</h3>
+<h2>Introduction</h2>

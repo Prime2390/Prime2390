@@ -8,4 +8,5 @@
 <h2>Table of contents</h2>
 <ul>
   <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Software-testing.md>Softwere Testing</a></li>
+    <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Testing%20Techniques.md>Testing Techniques</a></li>
 </ul>

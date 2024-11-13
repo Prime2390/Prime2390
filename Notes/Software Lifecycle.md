@@ -12,3 +12,14 @@ For each of the software development activities, a testing activity is assigned,
     <img src="https://raw.githubusercontent.com/Prime2390/Prime2390/refs/heads/main/Icons/DALL·E%202024-11-11%2022.20.53%20-%20A%20minimalistic%20and%20modern%20icon%20representing%20'Back%20to%20Menu'.%20The%20icon%20should%20feature%20an%20arrow%20pointing%20to%20a%20menu%20or%20list%20symbol%2C%20indicating%20navigation%20.webp" alt="Back to Menu" style="width:100px;height:100px;">
 </a>
 </div>
+
+<h2>Lifecycle</h2>
+<h1>The software lifecycle can be performed in one of the systems such as:</h1>
+<ul>
+    <li><h1>Sequential (Linear) model</h1>
+<p>Assumes that individual activities are performed one after the other. Therefore, the next phase will not start without completing the previous phase.</p>
+</li>
+    <li><h1>Iterative and incremental model</h1>
+<p>Software is produced in short cycles, this means that functionality grows incrementally, so requirements and design, testing of the system is determined in parts.</p>
+</li>
+</ul>

@@ -14,7 +14,7 @@ For each of the software development activities, a testing activity is assigned,
 </div>
 
 <h2>Lifecycle</h2>
-<h1>The software lifecycle can be performed in one of the systems such as:</h1>
+<h3>The software lifecycle can be performed in one of the systems such as:</h3>
 <ul>
     <li><h4>Sequential (Linear) model</h4>
 <p>Assumes that individual activities are performed one after the other. Therefore, the next phase will not start without completing the previous phase.</p>

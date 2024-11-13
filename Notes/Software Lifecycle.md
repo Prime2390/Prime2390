@@ -16,10 +16,10 @@ For each of the software development activities, a testing activity is assigned,
 <h2>Lifecycle</h2>
 <h1>The software lifecycle can be performed in one of the systems such as:</h1>
 <ul>
-    <li><h1>Sequential (Linear) model</h1>
+    <li><h4>Sequential (Linear) model</h4>
 <p>Assumes that individual activities are performed one after the other. Therefore, the next phase will not start without completing the previous phase.</p>
 </li>
-    <li><h1>Iterative and incremental model</h1>
+    <li><h4>Iterative and incremental model</h4>
 <p>Software is produced in short cycles, this means that functionality grows incrementally, so requirements and design, testing of the system is determined in parts.</p>
 </li>
 </ul>

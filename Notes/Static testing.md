@@ -16,7 +16,7 @@
 </ul>
 
 <h2 id= 1>Previw Process</h2>
-<h3>t is a form of static testing, performed manually.
+<h3>It is a form of static testing, performed manually.
 </h3>
 <h4>Types of inspection include:</h4>
 <ul>

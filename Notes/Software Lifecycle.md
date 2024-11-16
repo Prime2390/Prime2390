@@ -78,7 +78,31 @@ The software lifecycle model must be selected and adapted to fit the context res
 <h4>
 A good time to introduce the concepts of test levels is during the software life cycle, as each of the levels presented here has a particular impact at a different stage of the software life cycle.</h4>
 
+<h4>The main levels of testing we can include:</h4>
+<ul>
+    <li>
+        <h5>Modular testing (Unit testing)</h5>
+        <p>Focuses on modules that can be tested separately, i.e. the system code is tested</p>
+    </li>
+     <li>
+        <h5>Integration testing</h5>
+        <p>Testing focuses on interactions between modules or systems.</p>
+    </li>
+     <li>
+        <h5>System testing</h5>
+        <p>Focuses on the behaviour and capabilities of the entire integrated system 
+</p>
+    </li>
+     <li>
+        <h5>Acceptance testing</h5>
+        <p>Testing assesses the readiness of the system for production deployment
+</p>
+</ul>
+<h5>Adaptive testing may also be followed by Alpha testing performed at the premises of the software organisation. These are performed by potential or existing customers or independent testers. Beta tests are also performed by potential or existing customers but at their own locations.
+</h5>
+
 <h2 id=3>Types of Tests</h2>
+<h3>Groups of dynamic test activities performed to test specific systems are called test types, and include:</h3>
 
 
 

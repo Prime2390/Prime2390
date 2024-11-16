@@ -1,4 +1,4 @@
-<h1 align="center">Static</h1>
+<h1 align="center">Static testing</h1>
 <h3>This is testing without running the product code, done correctly it is effective and efficient because it allows defects and problems to be detected in the early phases of the lifecycle that could pose a problem in subsequent phases.
 </h3>
 <div align="center">

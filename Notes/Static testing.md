@@ -31,6 +31,7 @@
 </h3>
 
 <ol type="I">
+    <li>
         <h4>Planning</h4>
         <p>The scope of work that the review will cover is defined. The objectives of the review are defined.</p>
     </li>

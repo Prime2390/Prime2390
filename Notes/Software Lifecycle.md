@@ -102,7 +102,11 @@ A good time to introduce the concepts of test levels is during the software life
 </h5>
 
 <h2 id=3>Types of Tests</h2>
-<h3>Groups of dynamic test activities performed to test specific systems are called test types, and include:</h3>
+<h4>Groups of dynamic test activities performed to test specific systems are called test types, and include:</h4>
+<ol type="I">
+<li>lol</li>
+    
+</ol>
 
 
 

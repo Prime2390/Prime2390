@@ -47,3 +47,30 @@
     
 </ol>
 
+ <table>
+        <tr>
+            <th>Test Case ID</th>
+            <td>TC001</td>
+        </tr>
+        <tr>
+            <th>Title</th>
+            <td>Addition of Two Numbers</td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>Verify that the application correctly adds two integers.</td>
+        </tr>
+        <tr>
+            <th>Steps</th>
+            <td>
+                1. Open the calculator application.<br>
+                2. Enter <strong>5</strong> in the first input field.<br>
+                3. Enter <strong>10</strong> in the second input field.<br>
+                4. Click the <strong>"Add"</strong> button.
+            </td>
+        </tr>
+        <tr>
+            <th>Expected Result</th>
+            <td>The result <strong>15</strong> should be displayed in the output field.</td>
+        </tr>
+    </table>

@@ -121,7 +121,6 @@ A good time to introduce the concepts of test levels is during the software life
     <p>The purpose of testing is to evaluate system characteristics such as:
 </p>
     <ul>
-        <li></li>
         <li>Ustability</li>
         <li>Performance</li>
         <li>Security</li>

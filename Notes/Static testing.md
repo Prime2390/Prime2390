@@ -30,23 +30,23 @@
 <h3>These are the five types of activities that can occur during a work review
 </h3>
 
-        <ol type="I">
+<ol type="I">
         <h4>Planning</h4>
         <p>The scope of work that the review will cover is defined. The objectives of the review are defined.</p>
     </li>
-    
+    <li>
         <h4>Starting the review</h4>
         <p>As part of the start of the review, work products and materials are distributed to the participants.</p>
     </li>
-    
+    <li>
         <h4>Individual review</h4>
         <p>In this phase the review of the product takes place. A complete or partial review is carried out as part of this activity.</p>
     </li>
-    
+    <li>
         <h4>Feedback and problem analysis </h4>
         <p>Participants report on defects and problems detected in the review.</p>
     </li>
-    
+    <li>
         <h4>Defect removal and report</h4>
         <p>A report on the defects detected is created in this step</p>
     </li>

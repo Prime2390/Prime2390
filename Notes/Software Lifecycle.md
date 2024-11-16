@@ -104,8 +104,51 @@ A good time to introduce the concepts of test levels is during the software life
 <h2 id=3>Types of Tests</h2>
 <h4>Groups of dynamic test activities performed to test specific systems are called test types, and include:</h4>
 <ol type="I">
-<li>lol</li>
-    
+<li>
+    <h5>Functional testing
+</h5>
+    <p>hese tests evaluate the functions that the system should perform. </p>
+    <p>These functions are described in:</p>
+    <ul>
+        <li>Requirements specification</li>
+        <li>Stories</li>
+        <li>User stories</li>
+    </ul>
+</li>
+
+<li>
+    <h5>Non-functional testing</h5>
+    <p>The purpose of testing is to evaluate system characteristics such as:
+</p>
+    <ul>
+        <li></li>
+        <li>Ustability</li>
+        <li>Performance</li>
+        <li>Security</li>
+        <p>Non-functional testing checks how a system behaves</p>
+    </ul>
+</li>
+
+<li>
+    <h5>White-box testing</h5>
+    <p>These are tests that are introduced based on the internal structure or implementation of a given system.</p>
+</li>  
+
+<li>
+    <h5>Change-related testing</h5>
+    <p>They are performed after introducing changes to the system in order to add or modify functionality and remove the detected defects. Tests should be performed to confirm the correctly implemented functionality or removal of defects.</p>
+    <p>Tests can be divided into 2 categories</p>
+    <ul>
+        <li>
+            <p>Confirmation tests</p>
+            <p>They are performed in connection with defect repair. The role of the confirmation test is to check whether the defect has been removed</p>
+        </li>
+        <li>
+            <p>Regression tests</p>
+            <p>Are used to check whether changes made to one part of the code have affected the behaviour of other parts of the code in the same module, in other modules of the same system, or in other systems </p>
+        </li>
+    </ul>
+   
 </ol>
 
 

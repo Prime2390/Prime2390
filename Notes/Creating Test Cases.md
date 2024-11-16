@@ -47,21 +47,25 @@
     
 </ol>
 
- <table>
+<table>
         <tr>
-            <th>Test Case ID</th>
+            <th>Test Case Identifier</th>
             <td>TC001</td>
         </tr>
         <tr>
-            <th>Title</th>
+            <th>Title/Description</th>
             <td>Addition of Two Numbers</td>
         </tr>
         <tr>
-            <th>Description</th>
-            <td>Verify that the application correctly adds two integers.</td>
+            <th>Test Data</th>
+            <td>Number 1: 5, Number 2: 10</td>
         </tr>
         <tr>
-            <th>Steps</th>
+            <th>Prerequisites / Input</th>
+            <td>The calculator application must be installed and operational.</td>
+        </tr>
+        <tr>
+            <th>Test Steps</th>
             <td>
                 1. Open the calculator application.<br>
                 2. Enter <strong>5</strong> in the first input field.<br>
@@ -72,5 +76,9 @@
         <tr>
             <th>Expected Result</th>
             <td>The result <strong>15</strong> should be displayed in the output field.</td>
+        </tr>
+        <tr>
+            <th>Actual Result</th>
+            <td>To be filled after execution.</td>
         </tr>
     </table>

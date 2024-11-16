@@ -30,7 +30,7 @@
 <h3>These are the five types of activities that can occur during a work review
 </h3>
 
-    <ol>
+        <ol type="I">
         <h4>Planning</h4>
         <p>The scope of work that the review will cover is defined. The objectives of the review are defined.</p>
     </li>

@@ -13,4 +13,5 @@
     <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Static%20testing.md>Static Testing</li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Creating%20Test%20Plans.md>Creating Test Plan</a></li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Creating%20Test%20Cases.md>Creating Test Cases</a></li>
+        <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Reporting%20Errors.md>RRaporting Errors</a></li>
 </ol>

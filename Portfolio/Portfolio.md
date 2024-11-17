@@ -8,5 +8,6 @@
 <h2 align="center">List of projects</h2>
 <ol>
   <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Portfolio/Calculator.md>Calculator</a></li>
-    <p>Przeprowadzono kompleksowe testy funkcjonalne internetowego kalkulatora, weryfikując poprawność kluczowych operacji arytmetycznych (dodawanie, odejmowanie, mnożenie, dzielenie), a także testując scenariusze z liczbami ujemnymi, ułamkami i złożonymi operacjami. Uwzględniono przypadki brzegowe, takie jak dzielenie przez zero i niepoprawne dane, sprawdzając dokładność wyników. Testy wskazały obszary do optymalizacji, co poprawiło obsługę błędów i intuicyjność aplikacji.</p>
+    <p>The test plan for the calculator application includes verification of functionality and stability of operation in various usage scenarios. The calculator can perform basic arithmetic operations: addition, subtraction, multiplication and division.
+</p>
 </ol>

@@ -8,6 +8,17 @@
 <h2 align="center">List of projects</h2>
 <ol>
   <li><a href=https://github.com/Prime2390/webapp-testing>WebApp</a></li>
-    <p>The test plan for the calculator application includes verification of functionality and stability of operation in various usage scenarios. The calculator can perform basic arithmetic operations: addition, subtraction, multiplication and division.
-</p>
-</ol>
+# Web Application Testing
+
+Web application testing is the process of verifying that a website or web-based application operates correctly, performs efficiently, and provides a positive user experience. Key areas include:
+
+1. **Functional Testing**: Verifying features such as forms, buttons, links, and user workflows.
+2. **Performance Testing**: Evaluating load times, response times, and stability under different loads.
+3. **Usability Testing**: Ensuring the interface is intuitive and user-friendly.
+4. **Compatibility Testing**: Checking compatibility across different browsers, devices, and operating systems.
+5. **Security Testing**: Identifying vulnerabilities such as SQL injection, XSS, or unauthorized data access.
+6. **Responsive Design Testing**: Validating the appearance and functionality on various screen sizes and devices.
+7. **Accessibility Testing**: Ensuring the application complies with accessibility standards (e.g., WCAG).
+
+Comprehensive web application testing ensures reliability and high-quality experiences for end users.
+

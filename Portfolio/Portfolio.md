@@ -7,7 +7,7 @@
 
 <h2 align="center">List of projects</h2>
 <ol>
-  <li><a href=https://github.com/Prime2390/webapp-testing></a></li>
+  <li><a href=https://github.com/Prime2390/webapp-testing>WebApp</a></li>
     <p>The test plan for the calculator application includes verification of functionality and stability of operation in various usage scenarios. The calculator can perform basic arithmetic operations: addition, subtraction, multiplication and division.
 </p>
 </ol>

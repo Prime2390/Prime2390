@@ -1,4 +1,4 @@
-# API Testing - What It Is, What to Test, and Useful Tools for Manual Testing
+# API Testing - What It Is, What to Test, and Useful Tools 
 
 <div align="center">
 <a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/MyNote.md>

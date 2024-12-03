@@ -18,7 +18,7 @@
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/FunctionalTesting.md>Funkctional Testing</a></li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/API_Testing.md>API Testing</a></li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/PerformanceTesting.md>Performance Testing</a></li>
-        <li><a href=>Security Testing</a></li>
+        <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/SecurityTesting.md>Security Testing</a></li>
         <li><a href=>Automatic Tests</a></li>
         <li><a href=>Unit tests</a></li>
 </ol>

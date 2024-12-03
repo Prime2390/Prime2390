@@ -15,7 +15,7 @@
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Creating%20Test%20Cases.md>Creating Test Cases</a></li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/Reporting%20Errors.md>Raporting Errors</a></li>
         <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/VisualTesting.md>Visual Testing</a></li>
-        <li><a href=>Funkctional Testing</a></li>
+        <li><a href=https://github.com/Prime2390/Prime2390/blob/main/Notes/FunctionalTesting.md>Funkctional Testing</a></li>
         <li><a href=>API Testing</a></li>
         <li><a href=>Performance Testing</a></li>
         <li><a href=>Security Testing</a></li>

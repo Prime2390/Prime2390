@@ -140,7 +140,7 @@
   
 <h2 id="projects" >My Projects</h2>
 <a>
-  <h3>Parabank</h3>
+  <h3><a hrefe ="https://github.com/Prime2390/ParaBankAutomationTest.git">Parabank</h3></a>
   <ul>
     <li>Manual Tests</li>
     <li>Exploratory Tests</li>

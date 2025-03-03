@@ -1,5 +1,9 @@
 <head>
-
+<styles>
+    h1{
+    text-alige: center;
+    }
+</styles>
     
 </head>
 <body>

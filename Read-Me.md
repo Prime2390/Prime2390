@@ -140,7 +140,7 @@
   
 <h2 id="projects" >My Projects</h2>
 <a>
-  Parabank
+  <h3>Parabank</h3>
   <ul>
     <li>Manual Tests</li>
     <li>Exploratory Tests</li>

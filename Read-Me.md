@@ -139,9 +139,17 @@
 </a>
   
 <h2 id="projects" >My Projects</h2>
-{% page-ref page="nauka-automatyzacji.md" %}
-{% page-ref page="nauka-automatyzacji.md" %}
-{% page-ref page="nauka-automatyzacji.md" %}
+<a>
+  Parabank
+  <ul>
+    <li>Manual Tests</li>
+    <li>Exploratory Tests</li>
+    <li>Autmatic Tests</li>
+    <li>Api Tests</li>
+    
+  </ul>
+</a>
+
 
 
 <div align="center">
